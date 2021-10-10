@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedi112
-- 👀 I’m interested in Application development and machine learning
-- 🌱 I’m currently learning flask for backend development
+- 👀 I’m interested in computer vision and machine learning
+- 🌱 I’m currently working as a data scientist and machine learning engineer
 - 💞️ I’m looking to collaborate on machine learning and applicatin development projects
 - 📫 How to reach me ..
     - https://www.facebook.com/fedi.abdellaoui/
